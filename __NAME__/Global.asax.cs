@@ -4,7 +4,6 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-using Oak;
 
 namespace __NAME__
 {
@@ -15,7 +14,6 @@ namespace __NAME__
     {
         public MvcApplication()
         {
-            DebugBootStrap.Init(this);
         }
 
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
@@ -41,8 +39,6 @@ namespace __NAME__
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
-
-            BootStrap.Init();
         }
     }
 }

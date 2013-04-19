@@ -1,0 +1,6 @@
+D:\Code\Fun\Loam\__NAME__\obj\Debug\__NAME__.csprojResolveAssemblyReference.cache
+D:\Code\Fun\Loam\__NAME__\bin\__NAME__.dll
+D:\Code\Fun\Loam\__NAME__\bin\__NAME__.pdb
+D:\Code\Fun\Loam\__NAME__\bin\Newtonsoft.Json.dll
+D:\Code\Fun\Loam\__NAME__\obj\Debug\__NAME__.dll
+D:\Code\Fun\Loam\__NAME__\obj\Debug\__NAME__.pdb

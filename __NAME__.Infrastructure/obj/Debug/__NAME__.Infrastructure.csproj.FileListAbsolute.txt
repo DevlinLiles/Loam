@@ -1,0 +1,5 @@
+D:\Code\Fun\Loam\__NAME__.Infrastructure\bin\Debug\__NAME__.Infrastructure.dll
+D:\Code\Fun\Loam\__NAME__.Infrastructure\bin\Debug\__NAME__.Infrastructure.pdb
+D:\Code\Fun\Loam\__NAME__.Infrastructure\obj\Debug\__NAME__.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Code\Fun\Loam\__NAME__.Infrastructure\obj\Debug\__NAME__.Infrastructure.dll
+D:\Code\Fun\Loam\__NAME__.Infrastructure\obj\Debug\__NAME__.Infrastructure.pdb

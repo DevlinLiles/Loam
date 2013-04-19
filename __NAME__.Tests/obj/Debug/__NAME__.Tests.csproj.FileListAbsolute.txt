@@ -1,0 +1,9 @@
+D:\Code\Fun\Loam\__NAME__.Tests\obj\Debug\__NAME__.Tests.csprojResolveAssemblyReference.cache
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\__NAME__.Tests.dll.config
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\__NAME__.Tests.dll
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\__NAME__.Tests.pdb
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\NSpec.dll
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\__NAME__.dll
+D:\Code\Fun\Loam\__NAME__.Tests\bin\Debug\__NAME__.pdb
+D:\Code\Fun\Loam\__NAME__.Tests\obj\Debug\__NAME__.Tests.dll
+D:\Code\Fun\Loam\__NAME__.Tests\obj\Debug\__NAME__.Tests.pdb

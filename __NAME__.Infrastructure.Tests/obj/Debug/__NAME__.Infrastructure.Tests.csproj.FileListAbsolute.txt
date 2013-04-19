@@ -1,0 +1,5 @@
+D:\Code\Fun\Loam\__NAME__.Infrastructure.Tests\bin\Debug\__NAME__.Infrastructure.Tests.dll
+D:\Code\Fun\Loam\__NAME__.Infrastructure.Tests\bin\Debug\__NAME__.Infrastructure.Tests.pdb
+D:\Code\Fun\Loam\__NAME__.Infrastructure.Tests\obj\Debug\__NAME__.Infrastructure.Tests.csprojResolveAssemblyReference.cache
+D:\Code\Fun\Loam\__NAME__.Infrastructure.Tests\obj\Debug\__NAME__.Infrastructure.Tests.dll
+D:\Code\Fun\Loam\__NAME__.Infrastructure.Tests\obj\Debug\__NAME__.Infrastructure.Tests.pdb
