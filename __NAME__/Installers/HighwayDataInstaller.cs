@@ -6,9 +6,9 @@ using Castle.Windsor;
 using Castle.MicroKernel.SubSystems.Configuration;
 using Highway.Data.Interfaces;
 using Highway.Data.EventManagement;
-using __NAME__.Models;
 using Highway.Data;
 using System.Data.Entity;
+using __NAME__.Infrastructure.Database;
 
 namespace __NAME__.Installers
 {
@@ -22,7 +22,7 @@ namespace __NAME__.Installers
                     .DependsOn(new { connectionString = @"Data Source=.;Initial Catalog=ChangeMyConnectionString;Integrated Security=SSPI;" }),
                 Component.For<IRepository>().ImplementedBy<Repository>(),
                 Component.For<IEventManager>().ImplementedBy<EventManager>(),
-                Component.For<IMappingConfiguration>().ImplementedBy<Mappings>(),
+                Component.For<IMappingConfiguration>().ImplementedBy<DbMappings>(),
                 Component.For<IDatabaseInitializer<DataContext>>().ImplementedBy<DatabaseInitializer>()
                 );
         }

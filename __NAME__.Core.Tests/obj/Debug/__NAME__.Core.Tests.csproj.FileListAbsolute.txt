@@ -1,5 +1,7 @@
 D:\Code\Fun\Loam\__NAME__.Core.Tests\bin\Debug\__NAME__.Core.Tests.dll
 D:\Code\Fun\Loam\__NAME__.Core.Tests\bin\Debug\__NAME__.Core.Tests.pdb
-D:\Code\Fun\Loam\__NAME__.Core.Tests\obj\Debug\__NAME__.Core.Tests.csprojResolveAssemblyReference.cache
 D:\Code\Fun\Loam\__NAME__.Core.Tests\obj\Debug\__NAME__.Core.Tests.dll
 D:\Code\Fun\Loam\__NAME__.Core.Tests\obj\Debug\__NAME__.Core.Tests.pdb
+D:\Code\Fun\Loam\__NAME__.Core.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Code\Fun\Loam\__NAME__.Core.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Code\Fun\Loam\__NAME__.Core.Tests\bin\Debug\NSpec.dll

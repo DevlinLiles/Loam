@@ -1,5 +1,12 @@
 D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\__NAME__.Core.dll
 D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\__NAME__.Core.pdb
-D:\Code\Fun\Loam\__NAME__.Core\obj\Debug\__NAME__.Core.csprojResolveAssemblyReference.cache
 D:\Code\Fun\Loam\__NAME__.Core\obj\Debug\__NAME__.Core.dll
 D:\Code\Fun\Loam\__NAME__.Core\obj\Debug\__NAME__.Core.pdb
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Common.Logging.dll
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Highway.Data.dll
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Common.Logging.pdb
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Common.Logging.xml
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Highway.Data.xml
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Code\Fun\Loam\__NAME__.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml

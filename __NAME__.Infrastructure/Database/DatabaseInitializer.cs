@@ -1,21 +1,19 @@
-using System;
-using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using Castle.Core.Logging;
+using Common.Logging;
+using Common.Logging.Simple;
 using Highway.Data;
 
-namespace __NAME__.Models
+namespace __NAME__.Infrastructure.Database
 {
     // Remove the obsolete attribute once you've addressed this change.
     // TODO Change the base class for this to an Initializer that matches your strategy.
-    public class DatabaseInitializer : DropCreateDatabaseAlways<DataContext>
+    public class DatabaseInitializer : DropCreateDatabaseIfModelChanges<DataContext>
     {
-        public ILogger Logger { get; set; }
+        public ILog Logger { get; set; }
 
         public DatabaseInitializer() 
         {
-            Logger = NullLogger.Instance;
+            Logger = new NoOpLogger();
         }
 
         protected override void Seed(DataContext context)

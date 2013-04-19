@@ -3,7 +3,6 @@ using System.Linq;
 using System.Collections.Generic;
 using Castle.Core.Logging;
 using System.Data.Entity;
-using __NAME__.Models;
 
 [assembly: WebActivator.PostApplicationStartMethod(typeof(__NAME__.App_Start.LogAnnouncements), "PostStartup")]
 [assembly: WebActivator.ApplicationShutdownMethod(typeof(__NAME__.App_Start.LogAnnouncements), "Shutdown")]
